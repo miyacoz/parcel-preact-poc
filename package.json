@@ -1,0 +1,12 @@
+{
+  "alias": {
+    "react": "preact/compat",
+    "react-dom": "preact/compat",
+    "react-dom/test-utils": "preact/test-utils",
+    "react/jsx-runtime": "preact/jsx-runtime"
+  },
+  "dependencies": {
+    "parcel": "^2.4.1",
+    "preact": "^10.7.0"
+  }
+}
